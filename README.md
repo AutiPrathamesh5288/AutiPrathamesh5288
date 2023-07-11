@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Auti</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autiprathamesh5288" alt="autiprathamesh5288" /></a> </p>
 
 - 🔭 I’m currently working on **Java with DSA**
 
