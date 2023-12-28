@@ -1,5 +1,5 @@
 
-<img class="profile-background-image__image relative full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media.licdn.com/dms/image/D4D16AQH-za1ARSH9BA/profile-displa…40090968?e=1709164800&v=beta&t=45wB-ffCNvmEZhHwhXLoTq-HCWDliHXw-CxQgNSj2b8" style="left:0px;top:0px;">
+<img class="profile-background-image__image relative full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media.licdn.com/dms/image/D4D16AQH-za1ARSH9BA/profile-displa…40090968?e=1709164800&v=beta&t=45wB-ffCNvmEZhHwhXLoTq-HCWDliHXw-CxQgNSj2b8" >
 <h1 align="center">Hi 👋, I'm Prathamesh Auti</h1>
 
 - 🔭 I’m currently working on **Java with DSA**
