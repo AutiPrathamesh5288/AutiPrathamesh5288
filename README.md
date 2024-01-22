@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Prathamesh Auti</h1>
-<h3 align="center">"Aspiring Computer Engineer | Committing to Excellence in Code"</h3>
+<!-- <h3 align="center">"Aspiring Computer Engineer | Committing to Excellence in Code"</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=autiprathamesh5288&label=Profile%20views&color=0e75b6&style=flat" alt="autiprathamesh5288" /> </p>
 
