@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter App Development**
 
-- 👨‍💻 All of my projects are available at [https://psauti.netlify.app/](https://psauti.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://psauti.netlify.app/](https://psauti.netlify.app/) -->
 
 - 💬 Ask me about **Dart,Java,DSA,MySQL,HTML,CSS,JavaScript**
 
